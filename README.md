@@ -1,4 +1,4 @@
-<img width="1200px" height="500px" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
+<img width="1200px" height="300px" src="https://github.com/shoaibakhtar800/shoaibakhtar800/blob/main/7753426.jpg">
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
