@@ -1,5 +1,3 @@
-<img width="1200px" height="300px" src="https://github.com/shoaibakhtar800/shoaibakhtar800/blob/main/7753426.jpg">
-
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 Nice to meet you, I'm Shoaib Akhtar
