@@ -11,8 +11,8 @@ Nice to meet you, I'm Shoaib Akhtar
 ## Who Am I? 🤠
 
 - 🤓 Self taught Developer 
-- 👩‍💻 Working on Web & App Development 
-- 📝 Writing Cords, Compiling Code
+- 👩‍💻 Working on Web & UI/UX Development 
+- 📝 Writing Code, Compiling Code
 - 🎯 Goal : To be a better Developer 
 - 🌱 I’m currently learning **React.Js and Back-end Development**
 - 👨‍💻 All of my projects are available at [https://shoaib-stunning-portfolio.netlify.app/](https://shoaib-stunning-portfolio.netlify.app/)
