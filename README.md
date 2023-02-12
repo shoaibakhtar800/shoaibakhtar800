@@ -15,7 +15,7 @@ Nice to meet you, I'm Shoaib Akhtar
 - 📝 Writing Code, Compiling Code
 - 🎯 Goal : To be a better Developer 
 - 🌱 I’m currently learning **React.Js and Back-end Development**
-- 👨‍💻 All of my projects are available at [https://shoaib-stunning-portfolio.netlify.app/](https://shoaib-stunning-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://shoaib-waikiki-7446e3.netlify.app/](https://shoaib-waikiki-7446e3.netlify.app/)
 - 💬 Ask me about **React.Js, C++, JavaScript, Database, UI/UX**
 - 📫 How to reach me **cs08018akp@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1GN4NlNIbL9LjIjcC0mmWysEmxVP8sxZc/view?usp=sharing](https://drive.google.com/file/d/1GN4NlNIbL9LjIjcC0mmWysEmxVP8sxZc/view?usp=sharing)
