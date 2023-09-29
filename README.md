@@ -68,3 +68,5 @@ Nice to meet you, I'm Shoaib Akhtar
 <p>&nbsp;<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=shoaibakhtar800&show_icons=true&locale=en&theme=react" alt="shoaibakhtar800" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibakhtar800&theme=react-dark&theme=react&" alt="shoaibakhtar800" /></p>
+
+[![An image of @shoaibakhtar800's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shoaibakhtar800)](https://holopin.io/@shoaibakhtar800)
