@@ -6,7 +6,6 @@ Nice to meet you, I'm Shoaib Akhtar
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## Who Am I? 🤠
 
@@ -20,6 +19,7 @@ Nice to meet you, I'm Shoaib Akhtar
 - 📫 How to reach me **cs08018akp@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1GN4NlNIbL9LjIjcC0mmWysEmxVP8sxZc/view?usp=sharing](https://drive.google.com/file/d/1GN4NlNIbL9LjIjcC0mmWysEmxVP8sxZc/view?usp=sharing)
 - ⚡ Fun fact **Don't be serious, be sincere**
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## Connect with me
 <p align="left">
